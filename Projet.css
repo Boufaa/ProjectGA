@@ -267,12 +267,12 @@ header ul li .active:before
   header ul
   {
     position: absolute;
-    width: 89.8%;
+    width: 90%;
     height: 94%;
     display: none;
     background-color: #fff;
     z-index: 1;
-    margin-top: 43%;
+    margin-top: 94%;
     text-align: center;
   }
   header ul.active
@@ -291,7 +291,7 @@ header ul li .active:before
   }
   header ul li a
   {
-    font-size: 45px;
+    font-size: 46px;
   }
   header ul li a:hover:before
   {
@@ -303,215 +303,3 @@ header ul li .active:before
     color: #333;
   }
 }
-@media (max-width: 942px)
-{
-  header ul
-  {
-    width: 90%;
-    margin-top: 45%;
-  }
-}
-@media (max-width: 930px)
-{
-  header ul
-  {
-    width: 92%;
-    margin-top: 47%;
-  }
-}
-@media (max-width: 882px)
-{
-  header ul
-  {
-    width: 92%;
-    margin-top: 50%;
-  }
-}
-@media (max-width: 818px)
-{
-  header ul
-  {
-    width: 90%;
-    margin-top: 53%;
-  }
-}
-@media (max-width: 775px)
-{
-  header ul
-  {
-    width: 90%;
-    margin-top: 55%;
-  }
-}
-@media (max-width: 744px)
-{
-  header ul
-  {
-    width: 88%;
-    margin-top: 59%;
-  }
-}
-@media (max-width: 712px)
-{
-  header ul
-  {
-    width: 90.8%;
-    margin-top: 60%;
-  }
-}
-@media (max-width: 680px)
-{
-  header ul
-  {
-    width: 85%;
-    margin-top: 63%;
-  }
-}
-@media (max-width: 650px)
-{
-  header ul
-  {
-    width: 85%;
-    margin-top: 67%;
-  }
-}
-@media (max-width: 616px)
-{
-  header ul
-  {
-    width: 84%;
-    margin-top: 72%;
-  }
-}
-@media (max-width: 593px)
-{
-  header ul
-  {
-    width: 83%;
-    margin-top: 50%;
-  }
-}
-@media (max-width: 668px)
-{
-  header ul
-  {
-    width: 85%;
-    margin-top: 80%;
-  }
-}
-@media (max-width: 666px)
-{
-  header ul
-  {
-    width: 85%;
-    margin-top: 66%;
-  }
-}
-@media (max-width: 668px)
-{
-  header ul
-  {
-    width: 85%;
-    margin-top: 66%;
-  }
-}
-@media (max-width: 637px)
-{
-  header ul
-  {
-    width: 85%;
-    margin-top: 67%;
-  }
-}
-@media (max-width: 608px)
-{
-  header ul
-  {
-    width: 85%;
-    margin-top: 70%;
-  }
-}
-
-@media (max-width: 585px)
-{
-  header ul
-  {
-    width: 83%;
-    margin-top: 74%;
-  }
-}
-@media (max-width: 560px)
-{
-  header ul
-  {
-    width: 83%;
-    margin-top: 76%;
-  }
-}
-@media (max-width: 555px)
-{
-  header ul
-  {
-    width: 82%;
-    margin-top: 78%;
-  }
-}
-@media (max-width: 536px)
-{
-  header ul
-  {
-    width: 81%;
-    margin-top: 80%;
-  }
-}
-@media (max-width: 528px)
-{
-  header ul
-  {
-    width: 80.8%;
-    margin-top: 82%;
-  }
-}
-@media (max-width: 524px)
-{
-  header ul
-  {
-    width: 80.8%;
-    margin-top: 83%;
-  }
-}
-@media (max-width: 520px)
-{
-  header ul
-  {
-    width: 80.8%;
-    margin-top: 83%;
-  }
-}
-
-@media (max-width: 512px)
-{
-  header ul
-  {
-    width: 80.8%;
-    margin-top: 84%;
-  }
-}
-@media (max-width: 471px)
-{
-  header ul
-  {
-    width: 80.8%;
-    margin-top: 93%;
-  }
-}
-@media (max-width: 460px)
-{
-  header ul
-  {
-    width: 80.8%;
-    margin-top: 95%;
-  }
-}
-
-
