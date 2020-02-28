@@ -259,6 +259,7 @@ header ul li .active:before
   .content .bannerText a
   {
     font-size: 40px;
+    margin: 12px 0 0 0;
   }
   .content
   {
