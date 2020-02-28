@@ -323,7 +323,7 @@ header ul li .active:before
   .content .bannerText a:before
   {
     width: 100px;
-    height: 96px;
+    height: 75px;
   }
   .container:after
   {
