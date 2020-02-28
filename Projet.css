@@ -325,4 +325,11 @@ header ul li .active:before
     width: 100px;
     height: 96px;
   }
+  .container:after
+  {
+    
+    bottom: 155px;
+    left: 0;
+    font-size: 18vw;
+  }
 }
